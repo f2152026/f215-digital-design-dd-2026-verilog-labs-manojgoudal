@@ -60,6 +60,7 @@ module cla64_flat(
   // both checks.
   //
   // TODO: paste your verified assign statements for c[1] through c[64] here.
+  
 
   assign cout = c[64];
 
